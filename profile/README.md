@@ -21,7 +21,7 @@ IMPETUS demonstration sites are spread across 7 of Europe’s 11 biogeographical
 
 We invite researchers, developers, and climate action advocates to explore our repositories and contribute to the ongoing development of tools and solutions aimed at strengthening climate resilience. Contributions, in the form of code, ideas, or feedback, are highly valued and will play a key role in shaping future outputs of the project.
 
-## 🌍 Stay Informed
+## 🔔 Stay Informed
 
 For more detailed information on the IMPETUS project, please visit our official website or follow us on social media for the latest updates:
 
